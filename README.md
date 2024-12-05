@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Alex Gimei from Kampala, Uganda - East Africa. Thank you for checking out my profile
+🔭 I’m currently working on a few open-source projects with Cohere For AI community
+- 🌱 I’m currently learning Machine Learning for Tensorflow
+- 👯 I’m looking to collaborate on open-source projects concerning how AI/ML can help solve problems around us.
+- 🤔 I’m looking for help with how best to use these technologies to solve problems around us.
+- 💬 Ask me about Generative AI, Machine Learning, Artificial Intelligence, Cybersecurity, Data Science, Software Engineering or anything tech
+- 📫 How to reach me:
+- Linkedin: https://www.linkedin.com/in/gimei-alex-172460221/
+- X: https://x.com/AlexisGimmy
+- ⚡ Fun fact: I love networking and learning.
 
 <!--
 **Gimmyalex/Gimmyalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
